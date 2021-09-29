@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y4+0FA1hvPFKTP4LALrbDqNY5Up9Vv9ug9AAgWcFXwRhMC/lNjOeb55omRAuiGErO0eBIArVgmrHlL5EguxjTQ==",
+  "success": true,
+  "projectFilePath": "/Users/haihong.lu/workspace/Backend-Workshop-master/BasicCSharp/api/api.csproj",
+  "expectedPackageFiles": [
+    "/Users/haihong.lu/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/haihong.lu/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/haihong.lu/.nuget/packages/swashbuckle.aspnetcore/5.6.3/swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "/Users/haihong.lu/.nuget/packages/swashbuckle.aspnetcore.swagger/5.6.3/swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "/Users/haihong.lu/.nuget/packages/swashbuckle.aspnetcore.swaggergen/5.6.3/swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "/Users/haihong.lu/.nuget/packages/swashbuckle.aspnetcore.swaggerui/5.6.3/swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
