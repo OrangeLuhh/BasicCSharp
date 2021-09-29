@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = TestDoubleMock
-build_property.ProjectDir = /Users/haihong.lu/workspace/Backend-Workshop-master/BasicCSharp/TestDoubleMock/
+build_property.ProjectDir = /Users/haihong.lu/workspace/BasicCSharp/TestDoubleMock/

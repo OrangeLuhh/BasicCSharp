@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/haihong.lu/workspace/Backend-Workshop-master/BasicCSharp/TestDoubleMock/TestDoubleMock.csproj": {}
+    "/Users/haihong.lu/workspace/BasicCSharp/TestDoubleMock/TestDoubleMock.csproj": {}
   },
   "projects": {
-    "/Users/haihong.lu/workspace/Backend-Workshop-master/BasicCSharp/api/api.csproj": {
+    "/Users/haihong.lu/workspace/BasicCSharp/api/api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/haihong.lu/workspace/Backend-Workshop-master/BasicCSharp/api/api.csproj",
+        "projectUniqueName": "/Users/haihong.lu/workspace/BasicCSharp/api/api.csproj",
         "projectName": "api",
-        "projectPath": "/Users/haihong.lu/workspace/Backend-Workshop-master/BasicCSharp/api/api.csproj",
+        "projectPath": "/Users/haihong.lu/workspace/BasicCSharp/api/api.csproj",
         "packagesPath": "/Users/haihong.lu/.nuget/packages/",
-        "outputPath": "/Users/haihong.lu/workspace/Backend-Workshop-master/BasicCSharp/api/obj/",
+        "outputPath": "/Users/haihong.lu/workspace/BasicCSharp/api/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/haihong.lu/.nuget/NuGet/NuGet.Config"
@@ -65,14 +65,14 @@
         }
       }
     },
-    "/Users/haihong.lu/workspace/Backend-Workshop-master/BasicCSharp/TestDoubleMock/TestDoubleMock.csproj": {
+    "/Users/haihong.lu/workspace/BasicCSharp/TestDoubleMock/TestDoubleMock.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/haihong.lu/workspace/Backend-Workshop-master/BasicCSharp/TestDoubleMock/TestDoubleMock.csproj",
+        "projectUniqueName": "/Users/haihong.lu/workspace/BasicCSharp/TestDoubleMock/TestDoubleMock.csproj",
         "projectName": "TestDoubleMock",
-        "projectPath": "/Users/haihong.lu/workspace/Backend-Workshop-master/BasicCSharp/TestDoubleMock/TestDoubleMock.csproj",
+        "projectPath": "/Users/haihong.lu/workspace/BasicCSharp/TestDoubleMock/TestDoubleMock.csproj",
         "packagesPath": "/Users/haihong.lu/.nuget/packages/",
-        "outputPath": "/Users/haihong.lu/workspace/Backend-Workshop-master/BasicCSharp/TestDoubleMock/obj/",
+        "outputPath": "/Users/haihong.lu/workspace/BasicCSharp/TestDoubleMock/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/haihong.lu/.nuget/NuGet/NuGet.Config"
@@ -87,8 +87,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "/Users/haihong.lu/workspace/Backend-Workshop-master/BasicCSharp/api/api.csproj": {
-                "projectPath": "/Users/haihong.lu/workspace/Backend-Workshop-master/BasicCSharp/api/api.csproj"
+              "/Users/haihong.lu/workspace/BasicCSharp/api/api.csproj": {
+                "projectPath": "/Users/haihong.lu/workspace/BasicCSharp/api/api.csproj"
               }
             }
           }
@@ -116,6 +116,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[3.0.2, )"
+            },
+            "dotnet-xunit": {
+              "target": "Package",
+              "version": "[2.3.1, )"
             },
             "xunit": {
               "target": "Package",
